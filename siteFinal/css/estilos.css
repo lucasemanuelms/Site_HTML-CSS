@@ -156,3 +156,20 @@ ul.noticias li p{
 ul.noticias li p a{
     font-weight: 600;
 }
+.contato label{
+    display: block;
+    font-size: 13px;
+    font-weight: 300;
+}
+.contato input, .contato textarea{
+    display: block;
+    margin-bottom: 15px;
+    padding: 5px 2%;
+    width: 96%;
+}
+.contato textarea{
+    height: 150px;
+}
+.contato input.botao{
+    width: auto;
+}
