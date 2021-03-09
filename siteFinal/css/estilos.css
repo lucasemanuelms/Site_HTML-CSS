@@ -109,6 +109,9 @@ h1.logo{
     color: #315e8a;
     letter-spacing: -2px;
 }
+h1.logo a{
+    text-decoration: none;
+}
 .conteudo-extra{
     background: #f1f2ea;
 }
